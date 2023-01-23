@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "63cdc6629c70823cd527183d"
+  },
+  "type": "at home",
+  "date": {
+    "purchase": {
+      "$date": {
+        "$numberLong": "1654965930000"
+      }
+    },
+    "delivery": {
+      "$date": {
+        "$numberLong": "1654967710000"
+      }
+    }
+  },
+  "product": [
+    {
+      "product_id": {
+        "$oid": "63cdc13d556b5ce6b44e8401"
+      },
+      "quantity": 2
+    }
+  ],
+  "total_price": {
+    "$numberDecimal": "29.80"
+  },
+  "customer_id": {
+    "$oid": "63cdc2b79c70823cd5271832"
+  },
+  "shop_id": {
+    "$oid": "63cdc2d39c70823cd5271836"
+  },
+  "employee_delivery_nif": "67476376G"
+},{
+  "_id": {
+    "$oid": "63cdc6629c70823cd527183e"
+  },
+  "type": "in shop",
+  "date": {
+    "purchase": {
+      "$date": {
+        "$numberLong": "1671637434000"
+      }
+    }
+  },
+  "product": [
+    {
+      "product_id": {
+        "$oid": "63cdc2f29c70823cd527183b"
+      },
+      "quantity": 2
+    },
+    {
+      "product_id": {
+        "$oid": "63cdc2f29c70823cd527183c"
+      },
+      "quantity": 3
+    }
+  ],
+  "total_price": {
+    "$numberDecimal": "22.25"
+  },
+  "customer_id": {
+    "$oid": "63cdc2b79c70823cd5271834"
+  },
+  "shop_id": {
+    "$oid": "63cdc2d39c70823cd5271835"
+  }
+},{
+  "_id": {
+    "$oid": "63cdc6629c70823cd527183f"
+  },
+  "type": "at home",
+  "date": {
+    "purchase": {
+      "$date": {
+        "$numberLong": "1673442765000"
+      }
+    },
+    "delivery": {
+      "$date": {
+        "$numberLong": "1673444804000"
+      }
+    }
+  },
+  "product": [
+    {
+      "product_id": {
+        "$oid": "63cdc2f29c70823cd527183a"
+      },
+      "quantity": 2
+    }
+  ],
+  "total_price": {
+    "$numberDecimal": "10.50"
+  },
+  "customer_id": {
+    "$oid": "63cdc2b79c70823cd5271833"
+  },
+  "shop_id": {
+    "$oid": "63cdc2d39c70823cd5271837"
+  },
+  "employee_delivery_nif": "72687264H"
+}]

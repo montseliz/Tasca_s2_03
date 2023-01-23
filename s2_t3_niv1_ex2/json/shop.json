@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "63cdc2d39c70823cd5271835"
+  },
+  "name": "Garage Beer Co",
+  "address": {
+    "street": "C/ del Consell de Cent",
+    "number": "261",
+    "zip": "08011",
+    "locality": "Barcelona",
+    "province": "Barcelona"
+  },
+  "employee": [
+    {
+      "nif": "45768900R",
+      "type": "delivery worker",
+      "name": "Marta",
+      "surname1": "Gimeno",
+      "surname2": "Martínez",
+      "phone": "659445465"
+    },
+    {
+      "nif": "43643466T",
+      "type": "cooker",
+      "name": "Aitor",
+      "surname1": "Chico",
+      "surname2": "Torres",
+      "phone": "679549578"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63cdc2d39c70823cd5271836"
+  },
+  "name": "Pizzeria el Niu",
+  "address": {
+    "street": "C/ Francesc Camprodon",
+    "number": "67",
+    "zip": "17401",
+    "locality": "Arbúcies",
+    "province": "Girona"
+  },
+  "employee": [
+    {
+      "nif": "67476376G",
+      "type": "delivery worker",
+      "name": "Aida",
+      "surname1": "Prieto",
+      "surname2": "Campos",
+      "phone": "677337300"
+    },
+    {
+      "nif": "67276633T",
+      "type": "cooker",
+      "name": "Carles",
+      "surname1": "Palacios",
+      "surname2": "Mansió",
+      "phone": "693073878"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63cdc2d39c70823cd5271837"
+  },
+  "name": "König Vic",
+  "address": {
+    "street": "C/ Camí de la Tolosa",
+    "number": "16",
+    "zip": "08500",
+    "locality": "Vic",
+    "province": "Barcelona"
+  },
+  "employee": [
+    {
+      "nif": "72687264H",
+      "type": "delivery worker",
+      "name": "Alejandra",
+      "surname1": "Alejandres",
+      "surname2": "Martí",
+      "phone": "682469282"
+    },
+    {
+      "nif": "35135155K",
+      "type": "cooker",
+      "name": "Cristina",
+      "surname1": "Bricullé",
+      "surname2": "Soriano",
+      "phone": "678537377"
+    }
+  ]
+}]

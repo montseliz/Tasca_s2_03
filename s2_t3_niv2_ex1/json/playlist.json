@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "63cf0a52e22425d60c1041eb"
+  },
+  "name": "Curso de Java desde 0",
+  "date_creation": {
+    "$date": {
+      "$numberLong": "1345307318000"
+    }
+  },
+  "condition": "public",
+  "user_id": {
+    "$oid": "63ce89bcd08292e2f1d36349"
+  }
+},{
+  "_id": {
+    "$oid": "63cf0a52e22425d60c1041ec"
+  },
+  "name": "Curso Git & GitHub",
+  "date_creation": {
+    "$date": {
+      "$numberLong": "1538155779000"
+    }
+  },
+  "condition": "public",
+  "user_id": {
+    "$oid": "63ce89bcd08292e2f1d36349"
+  }
+},{
+  "_id": {
+    "$oid": "63cf0a52e22425d60c1041ed"
+  },
+  "name": "La ruta del Cister",
+  "date_creation": {
+    "$date": {
+      "$numberLong": "1571149727000"
+    }
+  },
+  "condition": "private",
+  "user_id": {
+    "$oid": "63ce89bcd08292e2f1d3634a"
+  }
+},{
+  "_id": {
+    "$oid": "63cf0b94e22425d60c1041ee"
+  },
+  "name": "What's on",
+  "date_creation": {
+    "$date": {
+      "$numberLong": "1607861557000"
+    }
+  },
+  "condition": "public",
+  "user_id": {
+    "$oid": "63cf0a33e22425d60c1041ea"
+  }
+}]

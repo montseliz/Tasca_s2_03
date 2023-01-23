@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "63cf0e72e22425d60c1041f0"
+  },
+  "title": "Chroma AR",
+  "description": "The Chroma AR experience allows smartphone users to virtually recreate an ancient Greek sculpture of a sphinx in full color, in their own space, comparing the vivid reconstruction and as it looks today.",
+  "size": 1.15,
+  "file_name": "chroma_ar.mp4",
+  "duration": "00:00:45",
+  "thumbnail": "https://img.youtube.com/vi/1DXsUaG6Lh4/0.jpg",
+  "reproductions": 5585,
+  "likes": [
+    {
+      "user_id": {
+        "$oid": "63cf0a33e22425d60c1041e9"
+      },
+      "date_likes": {
+        "$date": {
+          "$numberLong": "1663248578000"
+        }
+      }
+    },
+    {
+      "user_id": {
+        "$oid": "63cf0d71e22425d60c1041ef"
+      },
+      "date_likes": {
+        "$date": {
+          "$numberLong": "1671376795000"
+        }
+      }
+    }
+  ],
+  "dislikes": [
+    {
+      "user_id": {
+        "$oid": "63cf0a33e22425d60c1041e8"
+      },
+      "date_dislikes": {
+        "$date": {
+          "$numberLong": "1638613185000"
+        }
+      }
+    }
+  ],
+  "condition": "public",
+  "tag": [
+    {
+      "name": "#art"
+    },
+    {
+      "name": "#museum"
+    },
+    {
+      "name": "#augmentedreality"
+    }
+  ],
+  "date_publishing": {
+    "$date": {
+      "$numberLong": "1636712015000"
+    }
+  },
+  "comment": [
+    {
+      "user_id": {
+        "$oid": "63cf0d71e22425d60c1041ef"
+      },
+      "text": "That's fun!",
+      "date_feedback": {
+        "$date": {
+          "$numberLong": "1638623556000"
+        }
+      },
+      "likes": [
+        {
+          "user_id": {
+            "$oid": "63cf0a33e22425d60c1041ea"
+          },
+          "date_feedback_like": {
+            "$date": {
+              "$numberLong": "1640345097000"
+            }
+          }
+        },
+        {
+          "user_id": {
+            "$oid": "63cf0a33e22425d60c1041e9"
+          },
+          "date_feedback_like": {
+            "$date": {
+              "$numberLong": "1640946754000"
+            }
+          }
+        }
+      ],
+      "dislikes": [
+        {
+          "user_id": {
+            "$oid": "63cf0a33e22425d60c1041e8"
+          },
+          "date_feedback_dislike": {
+            "$date": {
+              "$numberLong": "1640714083000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "user_id": {
+    "$oid": "63cf0a33e22425d60c1041ea"
+  },
+  "playlist_id": [
+    {
+      "$oid": "63cf0a33e22425d60c1041ea"
+    },
+    {
+      "$oid": "63ce89bcd08292e2f1d3634a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63cf1177e22425d60c1041f1"
+  },
+  "title": "Curso Excel 2010 Básico. Video 10 Fórmulas y referencias.",
+  "description": "Tema fundamental el de este vídeo. Referencias, absolutas, relativas y mixtas.",
+  "size": 4.35,
+  "file_name": "excel10.mp4",
+  "duration": "00:30:33",
+  "thumbnail": "https://img.youtube.com/vi/UFob_EWdWLA/0.jpg",
+  "reproductions": 306540,
+  "likes": [
+    {
+      "user_id": {
+        "$oid": "63cf0a33e22425d60c1041e9"
+      },
+      "date_likes": {
+        "$date": {
+          "$numberLong": "1673432371000"
+        }
+      }
+    }
+  ],
+  "dislikes": [
+    {
+      "user_id": {
+        "$oid": "63cf0a33e22425d60c1041ea"
+      },
+      "date_dislikes": {
+        "$date": {
+          "$numberLong": "1646411617000"
+        }
+      }
+    },
+    {
+      "user_id": {
+        "$oid": "63cf0d71e22425d60c1041ef"
+      },
+      "date_dislikes": {
+        "$date": {
+          "$numberLong": "1672817627000"
+        }
+      }
+    }
+  ],
+  "condition": "public",
+  "tag": [
+    {
+      "name": "#excel"
+    },
+    {
+      "name": "#curso"
+    },
+    {
+      "name": "#cursoexcelbasico"
+    }
+  ],
+  "date_publishing": {
+    "$date": {
+      "$numberLong": "1446207193000"
+    }
+  },
+  "comment": [
+    {
+      "user_id": {
+        "$oid": "63cf0d71e22425d60c1041ef"
+      },
+      "text": "Can you translate it?",
+      "date_feedback": {
+        "$date": {
+          "$numberLong": "1673097165000"
+        }
+      },
+      "likes": [
+        {
+          "user_id": {
+            "$oid": "63cf0a33e22425d60c1041ea"
+          },
+          "date_feedback_like": {
+            "$date": {
+              "$numberLong": "1673252554000"
+            }
+          }
+        }
+      ],
+      "dislikes": [
+        {
+          "user_id": {
+            "$oid": "63cf0a33e22425d60c1041e8"
+          },
+          "date_feedback_dislike": {
+            "$date": {
+              "$numberLong": "1673876696000"
+            }
+          }
+        },
+        {
+          "user_id": {
+            "$oid": "63cf0a33e22425d60c1041e9"
+          },
+          "date_feedback_dislike": {
+            "$date": {
+              "$numberLong": "1674247463000"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "user_id": {
+    "$oid": "63cf0a33e22425d60c1041e8"
+  },
+  "playlist_id": [
+    {
+      "$oid": "63cf0a52e22425d60c1041ec"
+    },
+    {
+      "$oid": "63cf0a52e22425d60c1041eb"
+    }
+  ]
+}]
