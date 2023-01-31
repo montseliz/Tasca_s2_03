@@ -1,0 +1,244 @@
+[{
+  "_id": {
+    "$oid": "63d8f043d3fe8670bb90df0e"
+  },
+  "name": "Miller & Marc",
+  "phone": "690472689",
+  "nif": "B50692844",
+  "address": {
+    "street": "Rietveldenweg",
+    "number": "47F",
+    "city": "Hertogenbosch",
+    "zip": "5222",
+    "country": "Països Baixos"
+  },
+  "brand": [
+    {
+      "name": "Ray Ban",
+      "glasses": [
+        {
+          "_id": 1,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "3.5"
+            },
+            "left": {
+              "$numberDecimal": "3.25"
+            }
+          },
+          "frame": "floating",
+          "colour": {
+            "frame": "blanc",
+            "glass_right": "transparent",
+            "glass_left": "transparent"
+          },
+          "price": {
+            "$numberDecimal": "234.89"
+          }
+        },
+        {
+          "_id": 2,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "2.25"
+            },
+            "left": {
+              "$numberDecimal": "1.75"
+            }
+          },
+          "frame": "pasta",
+          "colour": {
+            "frame": "negre"
+          },
+          "price": {
+            "$numberDecimal": "213.99"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Arnette",
+      "glasses": [
+        {
+          "_id": 3,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "-1.5"
+            },
+            "left": {
+              "$numberDecimal": "-1.25"
+            }
+          },
+          "frame": "metallic",
+          "colour": {
+            "frame": "gris",
+            "glass_right": "transparent",
+            "glass_left": "transparent"
+          },
+          "price": {
+            "$numberDecimal": "289.45"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d8f043d3fe8670bb90df0f"
+  },
+  "name": "Green Medical",
+  "phone": "962965732",
+  "fax": "962965733",
+  "nif": "B27435738",
+  "address": {
+    "street": "C/ Torrent de l'Olla",
+    "number": "56",
+    "city": "Barcelona",
+    "zip": "08010",
+    "country": "Espanya"
+  },
+  "brand": [
+    {
+      "name": "Zen Barcelona",
+      "glasses": [
+        {
+          "_id": 4,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "-0.5"
+            },
+            "left": {
+              "$numberDecimal": "-0.25"
+            }
+          },
+          "frame": "metallic",
+          "colour": {
+            "frame": "blanc",
+            "glass_right": "transparent",
+            "glass_left": "transparent"
+          },
+          "price": {
+            "$numberDecimal": "258.25"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Etnia Barcelona",
+      "glasses": [
+        {
+          "_id": 5,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "1.5"
+            },
+            "left": {
+              "$numberDecimal": "-0.25"
+            }
+          },
+          "frame": "pasta",
+          "colour": {
+            "frame": "verd",
+            "glass_right": "blau",
+            "glass_left": "blau"
+          },
+          "price": {
+            "$numberDecimal": "325.65"
+          }
+        }
+      ]
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63d8f043d3fe8670bb90df10"
+  },
+  "name": "Solo Solis",
+  "phone": "934562345",
+  "nif": "B37743777",
+  "address": {
+    "street": "C/ Francesc Carbonell",
+    "number": "52",
+    "floor": "baixos",
+    "city": "Barcelona",
+    "zip": "08024",
+    "country": "Espanya"
+  },
+  "brand": [
+    {
+      "name": "Tous",
+      "glasses": [
+        {
+          "_id": 6,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "2.5"
+            },
+            "left": {
+              "$numberDecimal": "-4.25"
+            }
+          },
+          "frame": "pasta",
+          "colour": {
+            "frame": "vermell",
+            "glass_right": "transparent",
+            "glass_left": "transparent"
+          },
+          "price": {
+            "$numberDecimal": "312.35"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Carolina Herrera",
+      "glasses": [
+        {
+          "_id": 7,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "1.5"
+            },
+            "left": {
+              "$numberDecimal": "-1.25"
+            }
+          },
+          "frame": "metallic",
+          "colour": {
+            "frame": "rosa",
+            "glass_right": "transparent",
+            "glass_left": "transparent"
+          },
+          "price": {
+            "$numberDecimal": "312.35"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Cacharel",
+      "glasses": [
+        {
+          "_id": 8,
+          "graduation": {
+            "right": {
+              "$numberDecimal": "2.5"
+            },
+            "left": {
+              "$numberDecimal": "-2.25"
+            }
+          },
+          "frame": "pasta",
+          "colour": {
+            "frame": "blanc",
+            "glass_right": "transparent",
+            "glass_left": "transparent"
+          },
+          "price": {
+            "$numberDecimal": "304.45"
+          }
+        }
+      ]
+    }
+  ]
+}]
